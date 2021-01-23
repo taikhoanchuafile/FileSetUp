@@ -1,0 +1,222 @@
+
+
+.top3{
+	width:1200px;
+	height: auto;/*150*/
+	}
+	
+.table2 {
+	width:1200px;
+	height:150px;
+	border:1px #000000 solid;
+	text-align:center;
+	font-size:15px;
+	}
+	
+.shopaccgame select{
+	width:1150px;
+	height:30px;
+	}
+.loainick select{
+	width:1150px;
+	height:30px;
+	}
+	
+.loc input{
+	font-size:20px;
+	}
+ /*====================================huongdan=========================================*/
+.maudo{
+	font-size:20px;
+	font-weight:bold;
+	color:#F00;
+	}
+	
+.mauxam {
+	font-size:20px;
+	text-decoration:none;
+	color:#999;
+	}
+
+a.mauxam{
+	font-size:20px;
+	}
+
+a.mauxam:hover {
+	color:#00C;
+	}
+	
+.mauxanh {
+	font-size:20px;
+	font-weight:bold;
+	color:#00C;
+	}
+	
+.mautrang {
+	font-size:20px;
+	color:#FFF;
+	}
+
+.buoc1 {
+	font-size:20px;
+	font-weight:bold;
+	color:#F00;
+	margin:10px 0;
+	}
+	
+.buoc2 {
+	font-size:20px;
+	font-weight:bold;
+	color:#F00;
+	margin:20px 0 0 0;
+	}
+	
+.buoc3 {
+	font-size:20px;
+	font-weight:bold;
+	color:#F00;
+	margin:20px 0 0 0;
+	}
+	
+.buoc4 {
+	font-size:20px;
+	font-weight:bold;
+	color:#F00;
+	margin:20px 0 30px 0;
+	}
+/*====================================napthe=========================================*/
+
+.table22 {
+	width:600px;
+	height:200px;
+	border:1px #000000 solid;
+	text-align:center;
+	font-size:15px;
+	margin:100px 300px 0 300px;
+	}
+
+.loaithe {
+	color:#000;
+	font-size:20px;
+	}
+.loaithe select {
+	width:500px;
+	height:30px;
+	}
+	
+.mathe {
+	color:#000;
+	font-size:20px;
+	}
+	
+.mathe input{
+	width:500px;
+	height:30px;
+	}
+
+.soseri {
+	color:#000;
+	font-size:20px;
+	}
+	
+.soseri input{
+	width:500px;
+	height:30px;
+	}
+
+/*====================================nick1=========================================*/
+
+.trai{
+	color:#000;
+	line-height:50px;
+	font-size:18px;
+	width:350px;
+	height:50px;
+	float:left;
+	}
+	
+.giua {
+	color:#00F;
+	line-height:50px;
+	font-size:30px;
+	width:350px;
+	height:50px;
+	float:left;
+	}
+	
+.phai div.mua{
+	line-height:50px;
+	font-size:18px;
+	width:350px;
+	height:50px;
+	float:right;}
+
+.phai div.mua a{
+	text-decoration:none;
+	background:#FFF;
+	padding:5px 5px;
+	}
+.trai1 {
+	color:#000;
+	line-height:50px;
+	font-size:20px;
+	width:350px;
+	height:50px;
+	float:left;
+	}
+
+.giua1 {
+	color: #000;;
+	line-height:50px;
+	font-size:20px;
+	width:350px;
+	height:50px;
+	float:left;
+	}
+.phai1 div.mua1{
+	color:#000;
+	line-height:50px;
+	font-size:20px;
+	width:350px;
+	height:50px;
+	float:right;;
+	}
+	
+.phai1 div.mua1 a{
+	text-decoration:none;
+	color: #F00;
+	padding:5px 5px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+
+
+.top2 {
+	width:1200px;
+	height:500px;
+	font-size:15px;
+	background:url(../images/nengame.png) no-repeat right;
+	}
+	
+.table1 {
+	margin:15px 10px;
+	width:300px;
+	height:220px;
+	border:1px #000000 solid;
+
+	}
+.table1 th {
+	font-size:18px}
+tr.lqmb{
+	width:310px;
+	height:1px;
+	border-top:1px #000000 dashed;
+	display:block;
+	margin:0px 0 0 0;
+	}
+	
+tr.lmht{
+	width:310px;
+	height:1px;
+	border-top:1px #000000 dashed;
+	display:block;
+	margin:50px 0 0 0;}
+
+tr.haitac{
+	width:310px;
+	height:1px;
+	border-top:1px #000000 dashed;
+	display:block;
+	margin:50px 0 0 0;}
+
+	
+.lqmb a{
+	background:url(../images/iconTRUE.png) no-repeat left;
+	float:left;
+	padding:0 0 0 20px ;
+	text-decoration:none;
+	text-align:left;
+	font-weight:bold;
+	font-size:20px;
+	color: #FFF;}
+.lmht a{
+	background:url(../images/iconTRUE.png) no-repeat left;
+	float:left;
+	padding:0 0 0 20px ;
+	text-decoration:none;
+	text-align:left;
+	font-weight:bold;
+	font-size:20px;
+	color: #FFF;}
+.haitac a{
+	background:url(../images/iconTRUE.png) no-repeat left;
+	float:left;
+	padding:0 0 0 20px ;
+	text-decoration:none;
+	text-align:left;
+	font-weight:bold;
+	font-size:20px;
+	color: #FFF;}
+.table1 a:hover{
+	color:#FF0;
+	text-decoration:underline;
+	}

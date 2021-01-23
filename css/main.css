@@ -1,0 +1,23 @@
+/* CSS Document */
+
+* {
+	margin:0px;
+	padding:0px;
+	}
+.clr {
+	clear:both;
+	}
+	
+body {
+	background:#0F3;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	}
+
+.Main {
+	width:1200px;
+	height: auto;
+	background:#0F3;
+	margin:0px auto;
+	}
+
